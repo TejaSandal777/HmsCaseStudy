@@ -2,7 +2,7 @@ package com.hms.bean;
 
 public class LoginBean {
     private String login;
-    //login validate
+    //login validate:
     private String password;
     public String getLogin() {
         return login;
