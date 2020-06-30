@@ -14,8 +14,8 @@ public class LoginBean {
     public String getPassword() {
         return password;
     }
-
-    public static void setPassword(String password) {
+// removed static
+    public  void setPassword(String password) {
         this.password = password;
     }
 }
