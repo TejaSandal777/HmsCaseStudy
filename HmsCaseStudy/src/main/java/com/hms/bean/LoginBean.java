@@ -17,5 +17,6 @@ public class LoginBean {
 // removed static
     public  void setPassword(String password) {
         this.password = password;
+//        this.password = password;
     }
 }
